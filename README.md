@@ -3,6 +3,17 @@
 ### Project Title :
 Data Cleaning Using Power BI
 
+[Project overview](Project-Overview)
+
+[Data Sources](Data-Sources)
+
+[Data Cleaning processes](Data-Cleaning-processes)
+
+[Data Analysis](Data-Analysis)
+
+[Data Visualization](Data-Visualization)
+
+
 ### Project Overview :
 ---
 Power BI is a business analytics service by Microsoft that enables users to visualize and analyze data from various sources. It provides interactive dashboards, reporting, and data modeling capabilities. This data analysis Power BI project is to analyze and generate a clean file from an existing Excel file which can be achieved by: Data importation, Transformation (data cleaning), and Data loading.
