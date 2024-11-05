@@ -30,40 +30,61 @@ Exploratory Data Analysis
 ---
 The data was explored to answer some questions about the data using the various steps:
 
-For Text Cleaning 2a ( splitting of fullname to create First Name, Surname)
-Navigation
-promoted headers
+- *APPLIED STEPS*
+- text cleaning 2
 Removed Columns
-Removed top and bottom rows
-Duplicated column
+Promoted Headers1
+Changed Type1
+Removed Bottom Rows
+Duplicated Column
 Split Column by Delimiter
-For Text Cleaning 2b ( splitting of fullname to create First Name with Email)
+Changed Type2
+Trimmed Text
+Removed Columns1
+Renamed Columns
+Removed Columns2
+Renamed Columns1
+Duplicated Column1
+Replaced Value
+Removed Columns3
+Reordered Columns
+Merged Columns
 
-Duplicate Names column
-Split columns by delimiter
-Duplicate First Name column and Email column
-Merge First Name column and @ Lita.org using Apasand
-  
-For TextcCleaning 3
+-Text cleaning 3
+Source
 Navigation
-promoted headers
+Promoted Headers
+Changed Type
+Removed Top Rows
+Promoted Headers1
+Changed Type1
 Removed Columns
-Removed top and bottom rows
-Duplicated columns 1 and 2 and 3
-Reordered columns
-Merged columns by removing separator 'space'
-Delete unwanted colums
-For TextcCleaning 4
+Removed Bottom Rows
+Removed Columns
+Duplicated Column
+Duplicated Column1
+Removed Columns2
+Merged Columns
 
-Navigation
-promoted headers
+- Text cleaning 4
+  Promoted Headers
+Changed Type
+Removed Top Rows
+Promoted Headers
+Changed Type1
+Removed Bottom Rows
 Removed Columns
-Removed top and bottom rows
-Duplicated column
-Split column by delimiter
-Use custom box to split the email address @ left most delimiter
-Delete all unwanted columns
-Re order columns
+Duplicated Column
+Split Column by Delimite
+Changed Type2
+Removed Columns
+Renamed Columns
+Split Column by Delimit
+Changed Type3
+Removed Columns2
+Renamed Columns
+Removed Columns3
+
 
 ### Data Visualization
 ---
@@ -72,5 +93,9 @@ Cleaned data with steps taken to acheive
 
 
 ![image](https://github.com/user-attachments/assets/485cb9d1-44ff-4641-8e83-9f82027692b5)
+
+
+![image](https://github.com/user-attachments/assets/c1048f8d-7790-464c-9ed0-12bb4d8b3225)
+
 
 
