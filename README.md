@@ -68,38 +68,69 @@ Reordered Columns
 Merged Columns
 
 -Text cleaning 3
+
 Source
+
 Navigation
+
 Promoted Headers
+
 Changed Type
+
 Removed Top Rows
+
 Promoted Headers1
+
 Changed Type1
+
 Removed Columns
+
 Removed Bottom Rows
+
 Removed Columns
+
 Duplicated Column
+
 Duplicated Column1
+
 Removed Columns2
+
 Merged Columns
 
 - Text cleaning 4
+- 
   Promoted Headers
+  
 Changed Type
+
 Removed Top Rows
+
 Promoted Headers
+
 Changed Type1
+
 Removed Bottom Rows
+
 Removed Columns
+
 Duplicated Column
-Split Column by Delimite
+
+Split Column by Delimiter
+
 Changed Type2
+
 Removed Columns
+
 Renamed Columns
-Split Column by Delimit
+
+Split Column by Delimiter
+
 Changed Type3
+
 Removed Columns2
+
 Renamed Columns
+
 Removed Columns3
 
 
