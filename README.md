@@ -64,3 +64,9 @@ Split column by delimiter
 Use custom box to split the email address @ left most delimiter
 Delete all unwanted columns
 Re order columns
+
+### Data Visualization
+---
+Cleaned data with steps taken to acheive
+
+
