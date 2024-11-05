@@ -32,22 +32,39 @@ The data was explored to answer some questions about the data using the various 
 
 - *APPLIED STEPS*
 - text cleaning 2
+- 
 Removed Columns
+
 Promoted Headers1
+
 Changed Type1
+
 Removed Bottom Rows
+
 Duplicated Column
+
 Split Column by Delimiter
+
 Changed Type2
+
 Trimmed Text
+
 Removed Columns1
+
 Renamed Columns
+
 Removed Columns2
+
 Renamed Columns1
+
 Duplicated Column1
+
 Replaced Value
+
 Removed Columns3
+
 Reordered Columns
+
 Merged Columns
 
 -Text cleaning 3
