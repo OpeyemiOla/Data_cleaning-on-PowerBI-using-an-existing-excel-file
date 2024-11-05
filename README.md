@@ -68,5 +68,8 @@ Re order columns
 ### Data Visualization
 ---
 Cleaned data with steps taken to acheive
+![image](https://github.com/user-attachments/assets/9bc1c294-32f0-47ef-81fc-30229d0b61f7)
+
+
 
 
